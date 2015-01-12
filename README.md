@@ -8,5 +8,6 @@ Time spent: 2 hours including Git Setup and Video Walkthrough
  * [x] Required: User can hide numpad<br/>
  
 #Video of User Stories
-![Video Walkthrough](anim_tips.gif)
+![Video Walkthrough](walkthrough.gif)
 Gif created with [LiceCap](http://www.cockos.com/licecap/)
+
