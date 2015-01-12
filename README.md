@@ -7,7 +7,7 @@ Time spent: 2 hours including Git Setup and Video Walkthrough
  * [x] Required: User can toggle tip percentages<br/>
  * [x] Required: User can hide numpad<br/>
  
-#Video of User Stories
-![Video Walkthrough](walkthrough.gif)
+#Video Walkthrough
+![Video Walkthrough](walkthrough.gif)<br/>
 Gif created with [LiceCap](http://www.cockos.com/licecap/)
 
