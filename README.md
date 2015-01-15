@@ -11,5 +11,5 @@ Time spent: 2 hours for optional user stories.
  * [x] Optional: Added App Icon<br/>
  
 #Video of User Stories
-![Video Walkthrough](walkthrough.gif)
+![Video Walkthrough](tapthrough.gif)<br/>
 Gif created with [LiceCap](http://www.cockos.com/licecap/)
