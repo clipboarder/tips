@@ -31,6 +31,78 @@
             endingLineNumber = "17"
             landmarkName = "ViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.totalLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "tips"
+                  urlString = "file:///Users/philip/Documents/Xcode/tips/tips/ViewController.swift"
+                  timestampString = "442995660.043966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.totalLabel.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "tips"
+                  urlString = "file:///Users/philip/Documents/Xcode/tips/tips/ViewController.swift"
+                  timestampString = "442995660.044395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.init (tips.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; tips.ViewController"
+                  moduleName = "tips"
+                  urlString = "file:///Users/philip/Documents/Xcode/tips/tips/ViewController.swift"
+                  timestampString = "442995660.044543"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.init (tips.ViewController.Type)() -&gt; tips.ViewController"
+                  moduleName = "tips"
+                  urlString = "file:///Users/philip/Documents/Xcode/tips/tips/ViewController.swift"
+                  timestampString = "442995660.044786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.init (tips.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; tips.ViewController"
+                  moduleName = "tips"
+                  urlString = "file:///Users/philip/Documents/Xcode/tips/tips/ViewController.swift"
+                  timestampString = "442995660.045017"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
