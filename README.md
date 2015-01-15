@@ -9,5 +9,5 @@ Time spent: 2 hours for required user stories, git setup and video walkthrough
  * [x] Optional: Changed layout, colors, fonts<br/>
  
 #Video of User Stories
-![Video Walkthrough](walkthrough.gif)<br/>
+![Video Walkthrough](walkthrough.gif)
 Gif created with [LiceCap](http://www.cockos.com/licecap/)
